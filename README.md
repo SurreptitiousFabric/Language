@@ -27,6 +27,7 @@ flashcards/
 - id: 1                # unique within the deck (integer or string)
   front: ciao          # question / prompt
   back: hello          # answer
+  mnemonic:            # a mnemonic based on the memory maxtrix
   stats:
     reps: 0            # how many times you have reviewed it
     ease: 250          # ease factor ×100 (starts at 250 → 2.5)
@@ -34,7 +35,7 @@ flashcards/
     due: 2025‑06‑27    # next review date (YYYY‑MM‑DD)
 ```
 
-Only **`front`** and **`back`** are required when you first add a card; the `stats` block is added/updated automatically after you study.
+Only **`front`** , **`back`** and **`mnemonic`** are required when you first add a card; the `stats` block is added/updated automatically after you study.
 
 ---
 
