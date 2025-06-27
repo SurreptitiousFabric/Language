@@ -1,22 +1,71 @@
 - id: 5001
-  front: dietro          
-  back:  after        
-  mnemonic: >
-    I dive in, feel the icy sensation (5000), see bright DAY (1) light,
-    then a huge D-retro surfboard bumps me from behind.
+  front: dietro
+  back: after
+  mnemonic: 'I dive in, feel the icy sensation (5000), see bright DAY (1) light, then
+    a huge D-retro surfboard bumps me from behind.
+
+    '
 - id: 5002
   front: Again
   back: Di nuovo
-  mnemonic: >
-    You dive into icy water from a Volvo shaped diving board the sudden,
-    sting is pure sensation (5000). While you're stil swimming Noah (2) 
-    put-puts past you in a shiny NEW volvo that's somehow floating.
-    Hear yourself saying "The new Volvo...again!"
+  mnemonic: 'You dive into icy water from a Volvo shaped diving board the sudden,
+    sting is pure sensation (5000). While youre stil swimming Noah (2)  put-puts past
+    you in a shiny NEW volvo thats somehow floating. Hear yourself saying "The new
+    Volvo...again!"
+
+    '
+  stats:
+    reps: 1
+    ease: 272
+    interval: 1
+    due: '2025-06-28'
 - id: 5003
   front: All
   back: Tutto
-  mnemonic: >
-    Your mother swimming in an Italian sea or lake. You would feel
-    the sensation that your mother feels as she swims and looks
-    around her, as you envisage her particularly feeling her TWO 
-    TOES at the same time!
+  mnemonic: 'Your mother swimming in an Italian sea or lake. You would feel the sensation
+    that your mother feels as she swims and looks around her, as you envisage her
+    particularly feeling her TWO  TOES at the same time!
+
+    '
+  stats:
+    reps: 1
+    ease: 360
+    interval: 1
+    due: '2025-06-28'
+- id: 5004
+  front: Almost
+  back: Quasi
+  mnemonic: "You see Ra, the mighty Egyptian sun god, bizarrely swimming through a\
+    \ golden sea. But he\u2019s hunched over, like a hunchback whale, floundering\
+    \ awkwardly. He mutters in a gravelly voice, \u201CAlmost... almost...\u201D,\
+    \ just like Quasimodo reaching for the bells."
+  stats:
+    reps: 0
+    ease: 234
+    interval: 0
+    due: '2025-06-27'
+- id: 5005
+  front: Also
+  back: Anche
+  mnemonic: "You're floating in a warm Italian lake when a judge drifts by on a rubber\
+    \ ring. Instead of a gavel, he\u2019s banging a tiny anchor against the side.\
+    \ With his free hand, he points at you and shouts: \u201CAlso! Also!\u201D \u2014\
+    \ like he's inviting you into his strange judicial swim session."
+  stats:
+    reps: 1
+    ease: 360
+    interval: 1
+    due: '2025-06-28'
+- id: 5006
+  front: Always
+  back: Sempre
+  mnemonic: "You\u2019re drifting in warm, shimmering waters when a giant eyelash\
+    \ swims by. But it\u2019s wearing a full U.S. Marine uniform and salutes you crisply.\
+    \ It growls, \u201CSemper Fi!\u201D, then adds in a whisper, \u201CSempre\u2026\
+    \ Always.\u201D More uniformed lashes join, chanting \u201CSempre!\u201D like\
+    \ a marine choir of tickles."
+  stats:
+    reps: 1
+    ease: 360
+    interval: 1
+    due: '2025-06-28'
