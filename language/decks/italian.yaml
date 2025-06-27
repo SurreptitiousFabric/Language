@@ -1,7 +1,9 @@
 - id: 5001
-  front: Dietro
-  back: behind / after
-  mnemonic: I dive in, feel the icy sensation (5000), see bright DAY (1) light, then a huge D-retro surfboard bumps me from behind.
+  front: dietro          
+  back:  after           
+  mnemonic: >
+    I dive in, feel the icy sensation (5000), see bright DAY (1) light,
+    then a huge D-retro surfboard bumps me from behind.
 - id: 5002
   front: Again
   back: Di nuovo
