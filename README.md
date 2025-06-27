@@ -71,6 +71,8 @@ The file `pegs.yaml` contains ready‑made mnemonic “peg” words for **0‑99
 - id: 23
   front: 23
   back: Name    # the peg word for 23
+  mnemonic: this should be a helpful image using the Memory Matrix to aid the recollection.
+
 ```
 
 Feel free to edit or localise the words — they’re just YAML.
