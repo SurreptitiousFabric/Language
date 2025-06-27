@@ -1,0 +1,300 @@
+- id: 5001
+  front: After
+  back: Dietro
+- id: 5002
+  front: Again
+  back: Di nuovo
+- id: 5003
+  front: All
+  back: Tutto
+- id: 5004
+  front: Almost
+  back: Quasi
+- id: 5005
+  front: Also
+  back: Anche
+- id: 5006
+  front: Always
+  back: Sempre
+- id: 5007
+  front: And
+  back: E
+- id: 5008
+  front: "A, an"
+  back: "Un, Una"
+- id: 5009
+  front: Because
+  back: Perche
+- id: 5010
+  front: Before
+  back: Davanti
+- id: 5011
+  front: Big
+  back: Grande
+- id: 5012
+  front: But
+  back: Ma
+- id: 5013
+  front: "Can (I can)"
+  back: "Io posso"
+- id: 5014
+  front: "Come (I come)"
+  back: "Io vengo"
+- id: 5015
+  front: "Either/or"
+  back: "O/o"
+- id: 5016
+  front: "Find (I find)"
+  back: "Io trovo"
+- id: 5017
+  front: First
+  back: Primo
+- id: 5018
+  front: For
+  back: Per
+- id: 5019
+  front: Friend
+  back: Amico
+- id: 5020
+  front: From
+  back: Da
+- id: 5021
+  front: "Go (I go)"
+  back: "Io vado"
+- id: 5022
+  front: Good
+  back: Buono
+- id: 5023
+  front: Goodbye
+  back: Arrivederci
+- id: 5024
+  front: Happy
+  back: Felice
+- id: 5025
+  front: "Have (I have)"
+  back: "Io ho"
+- id: 5026
+  front: He
+  back: Lui
+- id: 5027
+  front: Hello
+  back: Ciao
+- id: 5028
+  front: Here
+  back: Qui
+- id: 5029
+  front: How
+  back: Come
+- id: 5030
+  front: I
+  back: Io
+- id: 5031
+  front: "I am"
+  back: Sono
+- id: 5032
+  front: If
+  back: Se
+- id: 5033
+  front: In
+  back: In
+- id: 5034
+  front: "Know (I know)"
+  back: "Io conosco"
+- id: 5035
+  front: Last
+  back: Scorso
+- id: 5036
+  front: "Like (I like)"
+  back: "Mi piace"
+- id: 5037
+  front: Little
+  back: Poco
+- id: 5038
+  front: "Love (I love)"
+  back: "Io amo"
+- id: 5039
+  front: "Make (I make)"
+  back: "Io faccio"
+- id: 5040
+  front: Many
+  back: Molti
+- id: 5041
+  front: Me
+  back: Mi
+- id: 5042
+  front: More
+  back: Piu
+- id: 5043
+  front: Most
+  back: "Il piu"
+- id: 5044
+  front: Much
+  back: Molto
+- id: 5045
+  front: My
+  back: Mio
+- id: 5046
+  front: New
+  back: Nuovo
+- id: 5047
+  front: No
+  back: No
+- id: 5048
+  front: Not
+  back: Non
+- id: 5049
+  front: Now
+  back: Ora
+- id: 5050
+  front: Of
+  back: Di
+- id: 5051
+  front: Often
+  back: Spesso
+- id: 5052
+  front: On
+  back: Su
+- id: 5053
+  front: One
+  back: Uno
+- id: 5054
+  front: Only
+  back: Solo
+- id: 5055
+  front: Or
+  back: O
+- id: 5056
+  front: Other
+  back: Altro
+- id: 5057
+  front: Our
+  back: "Il nostro"
+- id: 5058
+  front: Out
+  back: Fuori
+- id: 5059
+  front: Over
+  back: Attraverso
+- id: 5060
+  front: People
+  back: Gente
+- id: 5061
+  front: Place
+  back: Luogo
+- id: 5062
+  front: Please
+  back: "Per favore"
+- id: 5063
+  front: Same
+  back: Medesimo
+- id: 5064
+  front: "See (I see)"
+  back: "Io vedo"
+- id: 5065
+  front: She
+  back: Lei
+- id: 5066
+  front: So
+  back: Cosi
+- id: 5067
+  front: Some
+  back: Qualche
+- id: 5068
+  front: Sometimes
+  back: Talvolta
+- id: 5069
+  front: Still
+  back: Ancora
+- id: 5070
+  front: Such
+  back: Tale
+- id: 5071
+  front: "Tell (I tell)"
+  back: "Io racconto"
+- id: 5072
+  front: "Thank you"
+  back: Grazie
+- id: 5073
+  front: That
+  back: Quello
+- id: 5074
+  front: The
+  back: "Il, la"
+- id: 5075
+  front: Their
+  back: "Il loro, la loro"
+- id: 5076
+  front: Them
+  back: "Li, le, loro"
+- id: 5077
+  front: Then
+  back: Allora
+- id: 5078
+  front: "There is, There are"
+  back: "C'e, ci sono"
+- id: 5079
+  front: They
+  back: Loro
+- id: 5080
+  front: Thing
+  back: Cosa
+- id: 5081
+  front: "Think (I think)"
+  back: "Io penso"
+- id: 5082
+  front: This
+  back: Questo
+- id: 5083
+  front: Time
+  back: Ora
+- id: 5084
+  front: To
+  back: Per
+- id: 5085
+  front: Under
+  back: "Piu basso"
+- id: 5086
+  front: Up
+  back: "Su per"
+- id: 5087
+  front: Us
+  back: Noi
+- id: 5088
+  front: "Use (I use)"
+  back: "Io uso"
+- id: 5089
+  front: Very
+  back: Molto
+- id: 5090
+  front: We
+  back: Noi
+- id: 5091
+  front: What
+  back: Come
+- id: 5092
+  front: When
+  back: Quando
+- id: 5093
+  front: Where
+  back: Dove
+- id: 5094
+  front: Which
+  back: Quale
+- id: 5095
+  front: Who
+  back: Chi
+- id: 5096
+  front: Why
+  back: Perche
+- id: 5097
+  front: With
+  back: Con
+- id: 5098
+  front: Yes
+  back: Si
+- id: 5099
+  front: You
+  back: Tu
+- id: 5100
+  front: Your
+  back: "Il suo, la sua"
